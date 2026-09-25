@@ -30,7 +30,11 @@ HR leaders, CTOs, and workforce planners aligning talent to a fast-moving roadma
 - [ai-resume-screener](https://github.com/Zion-support/ai-resume-screener) — hire for remaining gaps: https://ziontechgroup.com/ai-resume-screener/
 - [attrition-risk-radar](https://github.com/Zion-support/attrition-risk-radar) — protect critical-skill holders: https://ziontechgroup.com/attrition-risk-radar/
 - [onboarding-journey-ai](https://github.com/Zion-support/onboarding-journey-ai) — https://ziontechgroup.com/onboarding-journey-ai/
+- [interview-prep-copilot](https://github.com/Zion-support/interview-prep-copilot) — structured interviews: https://ziontechgroup.com/interview-prep-copilot/
 - [zion-ai-capacity-planner](https://github.com/Zion-support/zion-ai-capacity-planner) — https://ziontechgroup.com/zion-ai-capacity-planner/
 
 ---
+
+📓 Category: [HR & People AI](https://github.com/Zion-support/zion-network/blob/main/network/hr-people-ai.md) · 📣 Spotlight: [HR & People AI suite](https://github.com/Zion-support/zion-network/blob/main/spotlights/hr-people-ai.md) · 📇 Master index: [APPS_NETWORK.md](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
+
 © 2026 Zion Tech Group · https://ziontechgroup.com/
